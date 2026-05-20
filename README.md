@@ -6,7 +6,7 @@ Personal repository for Kaggle competition solutions. Each competition has its o
 
 | Competition | Type | Best CV | LB Score | Medal | Status |
 |---|---|---|---|---|---|
-| [Titanic](competitions/titanic/) | Binary Classification | — | — | — | 🔄 In Progress |
+| [Titanic](competitions/titanic/) | Binary Classification | 0.8249 ± 0.0184 | 0.78229 | — | ✅ Completed |
 
 ## Repository Structure
 

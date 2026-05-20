@@ -3,7 +3,7 @@
 **Competition:** [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)  
 **Task:** Predict passenger survival (0/1)  
 **Metric:** Accuracy  
-**Status:** 🔄 In Progress
+**Status:** ✅ Completed
 
 ## Results
 
