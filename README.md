@@ -31,7 +31,9 @@ kaggle-competitions/
 ```bash
 git clone https://github.com/synrocka/kaggle-competitions
 cd kaggle-competitions
-pip install kaggle
+
+conda env create -f competitions/<competition-name>/environment.yml
+conda activate <competition-name>
 
 # Download data for a specific competition
 kaggle competitions download -c <competition-name> -p competitions/<competition-name>/data/raw/
