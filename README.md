@@ -20,7 +20,7 @@ kaggle-competitions/
 │       ├── data/
 │       │   ├── raw/          # Source data (gitignored)
 │       │   └── submissions/  # Generated submission files
-│       └── requirements.txt
+│       └── environment.yml
 └── shared/
     ├── utils.py              # Common utilities (CV, metrics, plots)
     └── templates/            # Notebook and README templates

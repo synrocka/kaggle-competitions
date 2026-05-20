@@ -9,7 +9,7 @@
 
 | Version | Model | CV Accuracy | LB Accuracy | Notes |
 |---|---|---|---|---|
-| v1 | RandomForest | — | — | Baseline |
+| v1 | RandomForest | 0.8249 ± 0.0184 | 0.78229 | Baseline |
 
 ## Approach
 
